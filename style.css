@@ -1,6 +1,57 @@
 body{
     margin: 0px;
 }
+.section-one{
+    display: flex;
+    height: 850px;
+    flex-direction:column;
+}
+.sectionOne-divOne{
+    border: 1px solid gray;
+    margin: 25% 35% 1% 35%;
+    padding: 10px 20px;
+    
+}
+.sectionOne-divOne h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+span{
+    color: tomato;
+}
+.sectionOne-divTwo{
+   
+    margin-left: 43%;
+}
+.sectionOne-divTwo a{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+.sectionOne-divThree{
+    display:flex;
+    margin-top: 150px;
+    }
+    
+    .half i{
+    color: tomato;
+    position: absolute;
+    left: 250px;
+    font-size: 30px;
+    }
+    .half a{
+    text-decoration: none;
+    color: whitesmoke;
+    position: absolute;
+    left: 990px;
+    font-size: 20px;
+    }
+.section-one{
+    background-image: url(images/image@1X.png);
+}
 .our-team{
     text-align: center;
     padding-top: 100px;
@@ -37,6 +88,7 @@ h6{
     color: white;
 }
 .Section-two{
+    margin-top: -1px;
     background-image: url(images/BackgroundS2.png);
 }
 .block-company h3{
