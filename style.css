@@ -5,11 +5,11 @@ body{
     text-align: center;
     padding-top: 100px;
 }
-.our-team h1{
+ h1{
     color: white;
     font-size: 30px;
 }
-.our-team h6{
+h6{
     color: tomato;
     font-size: 20px;
 }
@@ -38,4 +38,40 @@ body{
 }
 .Section-two{
     background-image: url(images/BackgroundS2.png);
+}
+.block-company h3{
+    display: inline;
+
+}
+.block-company h3{
+    font-size: 20px;
+    color: whitesmoke;
+    
+}
+.block-company{
+    margin-left: 500px;
+    padding: 10px 60px;
+
+}
+.para-shadow{
+    background-color: #181818;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    padding: 50px;
+    
+    
+    
+}
+.para-shadow p, small{
+    color:whitesmoke;
+    text-align: center;
+}
+.para-shadow span{
+    color: tomato;
+}
+.section-three{
+    margin-top: -1px;
+    margin-bottom: 0px;
+    background-image: url(images/BackgroundCompany.png);
 }
