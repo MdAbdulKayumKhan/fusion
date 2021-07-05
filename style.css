@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+.our-team{
+    text-align: center;
+    padding-top: 100px;
+}
+.our-team h1{
+    color: white;
+    font-size: 30px;
+}
+.our-team h6{
+    color: tomato;
+    font-size: 20px;
+}
+.str{
+    display: flex;
+    padding-bottom: 100px;
+   
+    
+}
+.moto{
+    width: 25%;
+    /* border: 1px solid gray; */
+    margin-left: 70px;
+    padding: 10px 60px 10px 60px;
+    
+}
+.moto i{
+    color: tomato;
+}
+.moto p, h2{
+    color: whitesmoke;
+}
+.like-items{
+    text-decoration: none;
+    color: white;
+}
+.Section-two{
+    background-image: url(images/BackgroundS2.png);
+}
